@@ -9,7 +9,7 @@
 
 - 🌱 I’m currently learning **Reactjs, TailwindCSS**
 
-- 👨‍💻 All of my projects are available at [Deepanshuparihar.dev](Deepanshuparihar.dev)
+- 👨‍💻 All of my projects are available at [HERE](https://github.com/Deepanshu-Parihar/)
 
 - 💬 Ask me about **React, JavaScript, Java, TailwindCSS**
 
