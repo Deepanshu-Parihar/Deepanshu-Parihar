@@ -7,7 +7,7 @@
 
 <p align="left"> <a href="https://twitter.com/deepanshup50248" target="blank"><img src="https://img.shields.io/twitter/follow/deepanshup50248?logo=twitter&style=for-the-badge" alt="deepanshup50248" /></a> </p>
 
-- 🌱 I’m currently learning **Reactjs, MongoDB, Springboot**
+- 🌱 I’m currently learning **Reactjs, TailwindCSS**
 
 - 👨‍💻 All of my projects are available at [Deepanshuparihar.dev](Deepanshuparihar.dev)
 
